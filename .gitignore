@@ -1,0 +1,23 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Django database
+db.sqlite3
+
+# Virtual environments
+.venv/
+venv/
+
+# Django generated files
+staticfiles/
+media/
+
+# Local database backups and exported data
+db_backup_before_postgresql.sqlite3
+sqlite_data.json
