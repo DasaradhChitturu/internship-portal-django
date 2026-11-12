@@ -148,3 +148,15 @@ This project was developed as part of a hands-on Python Backend Development lear
 **Dasaradha Ram Chitturu**
 
 GitHub: [DasaradhChitturu](https://github.com/DasaradhChitturu)
+
+
+## API Development Workflow
+
+New API features are developed in separate Git feature branches.
+
+Before merging into the main branch:
+
+- Implement the API functionality.
+- Write automated tests.
+- Verify API responses.
+- Submit a Pull Request for code review.
